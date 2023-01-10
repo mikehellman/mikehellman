@@ -1,10 +1,13 @@
 Hello! ✋
+
 I am a HPC and heterogeneous computing enthusiast. 
 
 Writing ✍️
+
 💬 I blog on DigiShek.
 
-Studies 📕  
+Studies 📕 
+
 I am a Digital Financial Technology MSc student at the National University of Singapore.
 Prev. Computer Science BSc and Physics BA from Syracuse University
 
